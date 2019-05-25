@@ -14,6 +14,11 @@ public class ScoreDto {
         this.guestPoints = guestPoints;
     }
 
+    @Override
+    public String toString() {
+        return "{" + "id=" + id + ", guestPoints=" + guestPoints + ", hostPoints=" + hostPoints + '}';
+    }
+
     public ScoreDto() {
     }
 

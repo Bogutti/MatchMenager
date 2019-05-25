@@ -18,7 +18,7 @@ public class Tools {
         return objectFields;
     }
 
-    public static String getRequestedScore(UUID id, String filePath) throws IOException {
+    public static String getRequestedObject(UUID id, String filePath) throws IOException {
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             for (String line; (line = br.readLine()) != null;) {
                 if (recordFound(line, id)) {

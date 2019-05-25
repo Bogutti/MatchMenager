@@ -1,0 +1,17 @@
+{id=e045e9e6-5c9c-4e6b-b115-ff74b35a34a2, guestPoints=2, hostPoints=1}
+{id=0992178b-aa45-413f-8b53-ac638492f234, guestPoints=2, hostPoints=1}
+{id=35831e12-48b1-45f1-b4bd-bccffeda9475, guestPoints=2, hostPoints=1}
+{id=a362827d-f6b9-4598-a06e-26c409a52686, guestPoints=2, hostPoints=1}
+{id=2d05f705-b423-48f4-be50-60d83c3dd5c0, guestPoints=2, hostPoints=1}
+{id=7d4c1adf-d998-4743-9417-d7a01aca53e4, guestPoints=2, hostPoints=0}
+{id=null, guestPoints=2, hostPoints=1}
+{id=2f67d717-7f00-4af3-9c57-d4c02b78be7d, guestPoints=2, hostPoints=1}
+{id=70e768b0-5e1b-48ce-a233-e7ba233e1c39, guestPoints=2, hostPoints=1}
+{id=a0136402-391a-4293-b78f-2d360fb29a0b, guestPoints=2, hostPoints=1}
+{id=a799327e-9379-409f-8526-2194319f7a4a, guestPoints=2, hostPoints=1}
+{id=6290fa6d-647e-430d-ab51-de40be947ca1, guestPoints=2, hostPoints=1}
+{id=2ebf3440-43ed-4bf4-bbc1-101897a67805, guestPoints=2, hostPoints=1}
+{id=324af485-14af-4d4f-a276-651c0001eff9, guestPoints=2, hostPoints=1}
+{id=bdd2a055-a1c4-4629-9c7a-9eff0791e907, guestPoints=2, hostPoints=1}
+{id=61d502f1-8636-495f-90e7-ade97c4fee34, guestPoints=2, hostPoints=1}
+{id=a84d90e5-070d-4ee6-9013-f080d8e0c5f5, guestPoints=2, hostPoints=1}

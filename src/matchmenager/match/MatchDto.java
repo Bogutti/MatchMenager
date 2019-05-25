@@ -22,6 +22,13 @@ public class MatchDto {
         this.ticketPrice = ticketPrice;
         this.matchPlace = matchPlace;
     }
+
+    @Override
+    public String toString() {
+        return "{" + "id=" + id + ", hostId=" + hostId + ", guestId=" + guestId + ", matchDate=" + matchDate + ", scoreId=" + scoreId + ", ticketPrice=" + ticketPrice + ", matchPlace=" + matchPlace + '}';
+    }
+    
+    
     public MatchDto(){}
 
     public UUID getId() {

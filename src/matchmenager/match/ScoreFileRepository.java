@@ -21,7 +21,7 @@ public class ScoreFileRepository {
     public ScoreDto get(UUID scoreId) throws IOException {
         String reequestedScore = "";
 
-        reequestedScore = Tools.getRequestedScore(scoreId, filePath);
+        reequestedScore = Tools.getRequestedObject(scoreId, filePath);
 
         if (couldNotFindScore(reequestedScore)) {
             return null;
@@ -31,7 +31,7 @@ public class ScoreFileRepository {
         return result;
     }
 
-    private static boolean couldNotFindScore(String reequestedScore) {
+    private boolean couldNotFindScore(String reequestedScore) {
         return reequestedScore.equals("");
     }
 
