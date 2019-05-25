@@ -5,8 +5,8 @@ import java.util.UUID;
 public class ScoreDto {
 
     private UUID id;
-    private int hostPoints;
     private int guestPoints;
+    private int hostPoints;
 
     public ScoreDto(UUID id, int hostPoints, int guestPoints) {
         this.id = id;
